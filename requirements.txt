@@ -1,0 +1,8 @@
+streamlit>=1.24.0
+folium
+streamlit-folium
+plotly
+pandas
+numpy
+matplotlib
+plotly-express
